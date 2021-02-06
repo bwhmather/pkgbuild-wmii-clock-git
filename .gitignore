@@ -1,0 +1,5 @@
+/pkg/
+/src/
+wmii-clock-git-*.pkg.tar.zst
+/wmii-clock/
+.SRCINFO
